@@ -1,0 +1,21 @@
+.circle-image {
+    width: 200px; 
+    border-radius: 50%; 
+    overflow: hidden;
+}
+
+.circle-image img {
+    width: 100%; /* Remplissage de l'image dans le cercle */
+    height: auto; /* Garde les proportions de l'image */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
